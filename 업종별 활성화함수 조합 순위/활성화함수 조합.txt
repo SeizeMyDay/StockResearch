@@ -1,9 +1,0 @@
-활성화함수 조합 (기본 : 순환)
-   1. selu : selu
-   2. tanh : selu
-   3. softsign : selu
-   4. elu : elu
-   5. elu : relu
-   6. tanh : softplus
-   7. tanh : relu
-   8. selu : softsign

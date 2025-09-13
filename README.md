@@ -2,7 +2,7 @@
 <http://www.stockresearch.kr/>  
 
 
-## 2022년 1학기
+## [2022년 1학기](https://github.com/SeizeMyDay/StockResearch/tree/main/SR2022-1)
 계량팀 입회  
 main: <LSTM 주가 예측 모델의 보조 지표로의 활용 가능성 검증>  
 

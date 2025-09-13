@@ -37,6 +37,6 @@ main: <암호화폐 시장에서의 페어트레이딩 전략>
 
 
 ## 2025년 2학기
-활동 중  
+계량팀 활동 중  
 * 워밍업 스터디: 캐글, [Jane Street Real-Time Market Data Forecasting](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting/data)
 * 메인 프로젝트(가제): <게임이론 기반 옵션 균형수익률 도출: 항생 ELS 사건의 발생배경 탐구>

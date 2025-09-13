@@ -7,7 +7,7 @@
 main: <LSTM 주가 예측 모델의 보조 지표로의 활용 가능성 검증>  
 
 
-## 2022년 2학기
+## [2022년 2학기](https://github.com/SeizeMyDay/StockResearch/tree/main/SR2022-2)
 계량팀장  
 - 부족한 상태에서 계량팀장을 맡게 되어, 빠른 능력 함양을 위해 여러 선배님과 컨택
 - 매트릭스튜디오, 실무자를 위한 금융공학 등 책 추천받아 공부
@@ -24,9 +24,9 @@ main: <LSTM 주가 예측 모델의 보조 지표로의 활용 가능성 검증>
 main: <KOSPI200 옵션의 내재변동성과 환율 및 금리 스프레드의 상관관계 분석>  
 
 
-## 2025년 1학기
+## [2025년 1학기](https://github.com/SeizeMyDay/StockResearch/tree/main/SR2025-1)
 * 계량팀 활동
-* 파이썬 스터디 진행
+* [파이썬 스터디 진행](https://github.com/SeizeMyDay/StockResearch/tree/main/SR2025-1/25_SR_PythonStudy)
   - 대상: 파이썬을 처음 접하는 인원
   - 목표: GPT를 돌리더라도 코드를 어느 정도 이해하면서 돌릴 수 있는 실력 만들기
   - 조코딩 <2024 점프 투 파이썬> 강의 사용

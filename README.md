@@ -1,5 +1,5 @@
 # **StockResearch(경희대학교 주가예측연구회)**
-🔗(https://khustockresearch.com/)
+🔗<https://khustockresearch.com/>  
 2022~
 
 ## **2022년 1학기** [🔗](https://github.com/SeizeMyDay/StockResearch/tree/main/SR2022-1)

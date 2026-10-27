@@ -64,12 +64,14 @@
 > 암호화폐의 높은 변동성과 낮은 효율성을 고려하여 기존의 전통적인 페어 트레이딩 방식(공적분 및 거리 접근법)의 한계를 보완하는 전략을 설계하였다.
 
 
-## **2025년 2학기** [🔗](https://github.com/SeizeMyDay/StockResearch/tree/main/SR2025-2)
+## **2025년 2학기**
+🔗<https://github.com/SeizeMyDay/StockResearch/tree/main/SR2025-2>
 
 **계량팀 활동**
 
 **워밍업 스터디**
-- 캐글, [Jane Street Real-Time Market Data Forecasting](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting/data)
+- 캐글, Jane Street Real-Time Market Data Forecasting
+  🔗<https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting/data>
 
 **메인 프로젝트**: <홍콩 H지수 ELS 사태에 관한 고찰: 게임이론과 정보 비대칭을 중심으로>
 * DB보험금융공모전 참여: <게임이론을 통해 본 홍콩 H지수 ELS 사태의 구조적 원인 연구: 투자자 효용과 정보 비대칭의 역할을 중심으로>

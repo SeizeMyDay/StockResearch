@@ -70,7 +70,7 @@
 **계량팀 활동**
 
 **워밍업 스터디**
-- 캐글, Jane Street Real-Time Market Data Forecasting
+- 캐글, Jane Street Real-Time Market Data Forecasting  
   🔗<https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting/data>
 
 **메인 프로젝트**: <홍콩 H지수 ELS 사태에 관한 고찰: 게임이론과 정보 비대칭을 중심으로>

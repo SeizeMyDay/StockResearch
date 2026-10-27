@@ -1,9 +1,13 @@
 # **StockResearch(경희대학교 주가예측연구회)**
 🔗<https://khustockresearch.com/>  
+
 2022~
 
-## **2022년 1학기** [🔗](https://github.com/SeizeMyDay/StockResearch/tree/main/SR2022-1)
-계량팀 입회  
+
+## **2022년 1학기**
+🔗<https://github.com/SeizeMyDay/StockResearch/tree/main/SR2022-1>  
+
+**계량팀 입회**  
 - 입회 후 첫 프로젝트
 - 프로젝트 전 <파이썬 증권 데이터 분석> 책 스터디
 
@@ -13,7 +17,9 @@
 > 과거 가격 데이터를 통해 익일의 주가의 등락을 예측하는 딥러닝 주가 예측 모형의 투자 보조 지표로서의 활용 가능성을 검증하였다.
 
 
-## **2022년 2학기** [🔗](https://github.com/SeizeMyDay/StockResearch/tree/main/SR2022-2)
+## **2022년 2학기**
+🔗<https://github.com/SeizeMyDay/StockResearch/tree/main/SR2022-2>  
+
 **계량팀장**  
 - 부족한 상태에서 계량팀장을 맡게 되어, 빠른 능력 함양을 위해 여러 선배님과 컨택
 - 매트릭스튜디오, 실무자를 위한 금융공학 등 선배님들께 책 추천받아 공부
@@ -28,9 +34,10 @@
 
 **SR 임원진**  
 - OB-YB 멘토링 행사 운영
-    - 상담자료 취합 및 선배님 컨택
-    - 데이터사이언티스트 진로로 참여, 도메인 분야는 금융 또는 게임으로 좁힘  
-
+    - 상담자료 취합
+    - 선배님 컨택
+    - 데이터사이언티스트 진로로 참여
+- 경희대 SR - 서울시립대 증권연구회 연합학술제 개최
 
 > main: <KOSPI200 옵션의 내재변동성과 환율 및 금리 스프레드의 상관관계 분석>
 > 
@@ -38,16 +45,18 @@
 > 이러한 시황에 맞춰 환율과 한미 금리 스프레드로 옵션의 내재변동성을 설명할 수 있는지 분석하였다.
 
 
-## **2025년 1학기** [🔗](https://github.com/SeizeMyDay/StockResearch/tree/main/SR2025-1)
-* 계량팀 활동
+## **2025년 1학기**
+🔗<https://github.com/SeizeMyDay/StockResearch/tree/main/SR2025-1>  
+🔗<https://github.com/StockResearch25-1>
 
-* **파이썬 스터디 총괄](https://github.com/SeizeMyDay/StockResearch/tree/main/SR2025-1/25_SR_PythonStudy)**
+**계량팀 활동**
+
+**파이썬 스터디 총괄**
+  🔗<https://github.com/SeizeMyDay/StockResearch/tree/main/SR2025-1/25_SR_PythonStudy)*>
   - 대상: 파이썬을 처음 접하는 인원
   - 목표: 바이브 코딩을 하더라도 코드를 어느 정도 이해하면서 할 수 있는 실력 만들어 주기
   - 조코딩 <2024 점프 투 파이썬> 강의 사용
   - \+ 강의 복습 및 추후 참고용 자료 직접 만들어 활용했음.  
-
-<https://github.com/StockResearch25-1>  
 
 > main: <암호화폐 시장에서의 페어트레이딩 전략>
 > 
@@ -56,15 +65,17 @@
 
 
 ## **2025년 2학기** [🔗](https://github.com/SeizeMyDay/StockResearch/tree/main/SR2025-2)
-계량팀 활동
 
-* 워밍업 스터디: 캐글, [Jane Street Real-Time Market Data Forecasting](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting/data)
-* 메인 프로젝트: <홍콩 H지수 ELS 사태에 관한 고찰: 게임이론과 정보 비대칭을 중심으로>
+**계량팀 활동**
+
+**워밍업 스터디**
+- 캐글, [Jane Street Real-Time Market Data Forecasting](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting/data)
+
+**메인 프로젝트**: <홍콩 H지수 ELS 사태에 관한 고찰: 게임이론과 정보 비대칭을 중심으로>
 * DB보험금융공모전 참여: <게임이론을 통해 본 홍콩 H지수 ELS 사태의 구조적 원인 연구: 투자자 효용과 정보 비대칭의 역할을 중심으로>
 
 - 대학에서 수강한 게임이론에 큰 흥미를 느끼던 중, 활동 시작 전 차기 팀장과 게임이론으로 H지수 ELS 사태를 분석해 보기로 결정
 - 활동 시작 후 팀원들과 게임모델을 설계하는 과정에서 의견 조율. CRRA 효용함수를 사용해 payoff를 동적 시뮬레이션하는 방식 채택
-
 
 > main: <홍콩 H지수 ELS 사태에 관한 고찰: 게임이론과 정보 비대칭을 중심으로>
 > 

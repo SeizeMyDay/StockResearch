@@ -1,4 +1,4 @@
-# **StockResearch(경희대학교 주가예측연구회)** [🔗](http://www.stockresearch.kr/)
+# **StockResearch(경희대학교 주가예측연구회)** [🔗<http://www.stockresearch.kr/>](http://www.stockresearch.kr/)
 2022~
 
 ## **2022년 1학기** [🔗](https://github.com/SeizeMyDay/StockResearch/tree/main/SR2022-1)
@@ -54,7 +54,7 @@
 > 암호화폐의 높은 변동성과 낮은 효율성을 고려하여 기존의 전통적인 페어 트레이딩 방식(공적분 및 거리 접근법)의 한계를 보완하는 전략을 설계하였다.
 
 
-## **2025년 2학기** [🔗](https://github.com/SeizeMyDay/StockResearch/tree/main/SR2025-2)**
+## **2025년 2학기** [🔗](https://github.com/SeizeMyDay/StockResearch/tree/main/SR2025-2)
 계량팀 활동
 
 * 워밍업 스터디: 캐글, [Jane Street Real-Time Market Data Forecasting](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting/data)

@@ -51,7 +51,7 @@
 
 **계량팀 활동**
 
-**파이썬 스터디 총괄** [🔗]<https://github.com/SeizeMyDay/StockResearch/tree/main/SR2025-1/25_SR_PythonStudy>
+**파이썬 스터디 총괄** [🔗](https://github.com/SeizeMyDay/StockResearch/tree/main/SR2025-1/25_SR_PythonStudy)
   - 대상: 파이썬을 처음 접하는 인원
   - 목표: 바이브 코딩을 하더라도 코드를 어느 정도 이해하면서 할 수 있는 실력 만들어 주기
   - 조코딩 <2024 점프 투 파이썬> 강의 사용

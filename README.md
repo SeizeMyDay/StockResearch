@@ -39,7 +39,7 @@
     - 데이터사이언티스트 진로로 참여
 - 경희대 SR - 서울시립대 증권연구회 연합학술제 개최
 
-> main: <KOSPI200 옵션의 내재변동성과 환율 및 금리 스프레드의 상관관계 분석>
+> main: <KOSPI200 옵션의 내재변동성과 환율 및 금리 스프레드의 상관관계 분석> [🔗](https://github.com/SeizeMyDay/StockResearch/blob/main/SR2022-2/SR%EA%B3%84%EB%9F%89%ED%8C%80%20KOSPI200%20%EC%98%B5%EC%85%98%EC%9D%98%20%EB%82%B4%EC%9E%AC%EB%B3%80%EB%8F%99%EC%84%B1%EA%B3%BC%20%ED%99%98%EC%9C%A8%20%EB%B0%8F%20%EA%B8%88%EB%A6%AC%20%EC%8A%A4%ED%94%84%EB%A0%88%EB%93%9C%EC%9D%98%20%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84%20%EB%B6%84%EC%84%9D.pdf)
 > 
 > 최근 미국의 테이퍼링, 러-우 전쟁 등 다양한 금융적, 국제적 요인으로 인해 환율 및 금리가 급격하게 변화하였다.
 > 이러한 시황에 맞춰 환율과 한미 금리 스프레드로 옵션의 내재변동성을 설명할 수 있는지 분석하였다.
@@ -51,14 +51,13 @@
 
 **계량팀 활동**
 
-**파이썬 스터디 총괄**  
-  🔗<https://github.com/SeizeMyDay/StockResearch/tree/main/SR2025-1/25_SR_PythonStudy>
+**파이썬 스터디 총괄** [🔗]<https://github.com/SeizeMyDay/StockResearch/tree/main/SR2025-1/25_SR_PythonStudy>
   - 대상: 파이썬을 처음 접하는 인원
   - 목표: 바이브 코딩을 하더라도 코드를 어느 정도 이해하면서 할 수 있는 실력 만들어 주기
   - 조코딩 <2024 점프 투 파이썬> 강의 사용
   - \+ 강의 복습 및 추후 참고용 자료 직접 만들어 활용했음.  
 
-> main: <암호화폐 시장에서의 페어트레이딩 전략>
+> main: <암호화폐 시장에서의 페어트레이딩 전략> [🔗](https://github.com/SeizeMyDay/StockResearch/blob/main/SR2025-1/%EC%95%94%ED%98%B8%ED%99%94%ED%8F%90%20%EC%8B%9C%EC%9E%A5%EC%97%90%EC%84%9C%EC%9D%98%20%ED%8E%98%EC%96%B4%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%94%A9%20%EC%A0%84%EB%9E%B5.pdf)
 > 
 > 본 연구는 암호화폐 시장에서 효율적인 페어 트레이딩 전략을 제안하고 검증하였다.
 > 암호화폐의 높은 변동성과 낮은 효율성을 고려하여 기존의 전통적인 페어 트레이딩 방식(공적분 및 거리 접근법)의 한계를 보완하는 전략을 설계하였다.
@@ -81,7 +80,7 @@
 
 - 이후 내용을 발전시켜 DB금융경제공모전 제출
 
-> main: <홍콩 H지수 ELS 사태에 관한 고찰: 게임이론과 정보 비대칭을 중심으로>
+> main: <홍콩 H지수 ELS 사태에 관한 고찰: 게임이론과 정보 비대칭을 중심으로> [🔗](https://github.com/SeizeMyDay/StockResearch/blob/main/SR2025-2/%ED%99%8D%EC%BD%A9%20H%EC%A7%80%EC%88%98%20ELS%20%EC%82%AC%ED%83%9C%EC%97%90%20%EA%B4%80%ED%95%9C%20%EA%B3%A0%EC%B0%B0%20%EA%B2%8C%EC%9E%84%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%A0%95%EB%B3%B4%20%EB%B9%84%EB%8C%80%EC%B9%AD%EC%9D%84%20%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C%20%20251201.pdf)
 > 
 > 본 연구는 2024년 홍콩 H지수(HSCEI) 연계 ELS 대규모 손실 사태를 정보 비대칭 하에서의 역선택 문제와 균형 실패로 해석한다.
 > 이를 위해 ELS 발행자와 개인투자자를 플레이어로 하는 신호게임 모형을 구축하고, 상품 구조에 따라 발행자를 High-risk(원금 비보장형 ELS)와 Low-risk(원금 보장형 ELB) 유형으로 구분하였다.
